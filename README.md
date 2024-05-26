@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **C,Database,OS,Linux,Windows,WEB,GIT,GITHUB,CMD**
+- 💬 Ask me about **C++ ,C# ,.Net, Python, Flask, Database ,OS ,Linux ,Windows ,WEB ,GIT, GITHUB, CMD**
 
 - 📫 How to reach me **bitf20m046@pucit.edu.pk**
 
