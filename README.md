@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Usman Khurram</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h1 align="center">Usman Khurram</h1>
+<h3 align="center">A passionate Full stack ROR developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usman-khurram&label=Profile%20views&color=0e75b6&style=flat" alt="usman-khurram" /> </p>
 
